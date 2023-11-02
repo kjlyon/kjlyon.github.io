@@ -11578,30 +11578,28 @@ html {
   font-size: 1.5rem;
 }
 
-.icon-yourwhy {
+
+.icon-understanding {
   height: 20vw;
   max-height: 30rem;
-  position: absolute;
-  bottom: 0;
-  left: 50%;
+  position: relative;
+  left: 30%;
   transform: translateX(-50%);
 }
 
 .icon-team {
   height: 20vw;
   max-height: 30rem;
-  position: absolute;
-  bottom: 0;
-  left: 50%;
+  position: relative;
+  left: 70%;
   transform: translateX(-50%);
 }
 
-.icon-understanding {
+.icon-yourwhy {
   height: 20vw;
   max-height: 30rem;
-  position: absolute;
-  bottom: 0;
-  left: 50%;
+  position: relative;
+  left: 40%;
   transform: translateX(-50%);
 }
 
